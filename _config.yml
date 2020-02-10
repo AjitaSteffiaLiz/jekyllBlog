@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ajita's jekyll Blog
-email: ajitaSTEFFIALIZ@jijitechnologies.com
+email: steffia@jijitechnologies.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ajita's first try in JEKYLL to create a blog
 
